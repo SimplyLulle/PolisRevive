@@ -70,6 +70,8 @@ end)
 
 ['isdead'] = 'Spelare död,
 
+##### ##### ##### ##### ##### ##### ##### ##### ##### ##### 
+
 ##### Sen så får du ändra allt om du vill ;)
 ##### Det kanske finns lite problem men då hoppas jag att ni löser det :)
 
