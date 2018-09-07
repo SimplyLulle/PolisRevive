@@ -62,6 +62,7 @@ end)
 # Sen lägger du till en av de viktigaste sakerna i locales.lua
 
 --Revive
+
 ['revive player'] = 'återuppliva spelare',
 
 ['revive_inprogress'] = 'återupplivning pågår',
